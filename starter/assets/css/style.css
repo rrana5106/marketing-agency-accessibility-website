@@ -1,13 +1,16 @@
+/* this will reset the default styles for all the elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Applying a background color to the whole page */
 body  {
     background-color: #d9dcd6;
 }
 
+/* styles for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +27,7 @@ body  {
     color: #d9dcd6;
 }
 
+/* styles for the navigation */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +45,18 @@ body  {
     margin-left: 25px;
 }
 
+/* these is the styles for the link */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* these is the styles for the paragraph */
 p {
     font-size: 16px;
 }
 
+/* these is the styles for the hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +66,7 @@ p {
     background-position: center;
 }
 
+/* these is the styles for the floating elements */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +77,14 @@ p {
     margin-left: 25px;
 }
 
+/* these is the styles for the content section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* these is the sytles for the benefits section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -109,6 +119,7 @@ p {
     max-width: 150px;
 }
 
+/* these are the styles for the article section */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -133,6 +144,7 @@ p {
     font-size: 36px;
 }
 
+/* these are the styles for the footer */
 .footer {
     padding: 30px;
     clear: both;
