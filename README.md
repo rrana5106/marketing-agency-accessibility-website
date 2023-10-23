@@ -1,5 +1,5 @@
 # marketing-agency-accessibility-website
-This provides accessibility to the website.
+This project is to provides accessibility to the website.
 
 ## Description
 
