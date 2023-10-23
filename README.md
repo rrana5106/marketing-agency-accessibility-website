@@ -21,6 +21,8 @@ To view and interact with the marketing agency website:
 
 - Open the `index.html` file in your web browser.
 
+- ![Screenshot](/marketing-agency-accessibility-website/Screenshot.png)
+
 - Please click or copy and paste the link in the browser to view the webpage http://127.0.0.1:5500/marketing-agency-accessibility-website/starter/index.html
 
 ## Credits
